@@ -1,0 +1,7 @@
+*.log
+*.png
+config/
+diag/
+ref/
+*.bak
+__pycache__/
